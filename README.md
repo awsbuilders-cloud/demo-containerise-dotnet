@@ -1,4 +1,4 @@
-# Welcome to the AWS Cloud Builders Repo for the Containerise Lab	# Welcome to the AWS Cloud Builders Repo 
+# Welcome to the AWS Cloud Builders Repo 
 
 Lab steps and details can be found on https://containerise.awsbuilders.com.au/
 
